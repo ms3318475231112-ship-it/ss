@@ -1,0 +1,9 @@
+{
+  "appId": "com.tarsid.accounts",
+  "appName": "ترصيد الحسابات",
+  "webDir": "www",
+  "backgroundColor": "#d6eeff",
+  "android": {
+    "allowMixedContent": false
+  }
+}
